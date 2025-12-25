@@ -1,0 +1,9 @@
+PhongBan CongTy
+PhongBan IT
+NVVP NguyenVanA 5000 1000
+NVQL TranVanB 8000 3000
+..
+PhongBan SanXuat
+NVSX LeVanC 4000 200 20
+..
+..
